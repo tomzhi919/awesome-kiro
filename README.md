@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/viezai/awesome-kiro/stargazers"><img src="https://img.shields.io/github/stars/viezai/awesome-kiro?style=flat&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/viezai/awesome-kiro/commits/main"><img src="https://img.shields.io/github/last-commit/viezai/awesome-kiro?style=flat" alt="Last Commit"></a>
+  <a href="https://github.com/tomzhi919/awesome-kiro/stargazers"><img src="https://img.shields.io/github/stars/tomzhi919/awesome-kiro?style=flat&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/tomzhi919/awesome-kiro/commits/main"><img src="https://img.shields.io/github/last-commit/tomzhi919/awesome-kiro?style=flat" alt="Last Commit"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0%201.0-blue.svg" alt="License: CC0"></a>
 </p>
