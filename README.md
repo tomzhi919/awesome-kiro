@@ -109,6 +109,7 @@
 - [jasonkneen/kiro](https://github.com/jasonkneen/kiro) — Complete system prompts for Kiro IDE by Amazon.
 - [ghuntley/amazon-kiro.kiro-agent-source-code-analysis](https://github.com/ghuntley/amazon-kiro.kiro-agent-source-code-analysis) — Kiro agent source code analysis.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — Cross-platform All-in-One assistant for Claude Code, Codex, OpenCode, Kiro (109k⭐).
+- [seed-forge/harness-ai-kit](https://github.com/seed-forge/harness-ai-kit) — Package manager for AI agent assets (skills/CLIs/MCPs/loops). Install, lock, and sync across Codex, Claude Code, Cursor, Kiro. 23 curated enterprise skills.
 
 ## Learning & Resources
 
